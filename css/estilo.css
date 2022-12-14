@@ -1,0 +1,35 @@
+.tabhead{
+  
+    height: 30px;
+    word-wrap: break-word;
+    width: 100px;
+}
+
+.tabd {
+  height: 30px;
+  border-bottom: 1px solid #dadce0;
+  margin-bottom: 12px;
+  word-wrap: break-word;
+  
+  
+}
+
+.container-tabela{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.container-perfil{
+  margin: auto;
+  background-color: #333741;
+  width: 50%;
+  margin-top: 20px;
+  padding: 50px;
+}
+
+.abcdefg{
+  @media screen and (min-width: 600px) {
+     
+      display:none;
+  }
+}
